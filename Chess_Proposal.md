@@ -1,7 +1,9 @@
 # Analysis of Chess Games
 
 ## Overview
-Chess is a very complex game.
+Clearly, Chess is a very complex game, with a rich history of being utilized as a proving grounds for the latest and greatest in artificial intelligence. For our final project, we have decided to look into a large set of chess games in order to predict their outcomes based on a variety of their features. 
+
+We are aiming to utilize several machine learning tactics in order to develop a useful and accurate classification system for chess games, and will hopefully be able to look at a board position and determine the winner of the game. We're hoping that this will be a fun and interesting project where we will be able to utilize a wide variety of data science methods.
 
 ## Datasets
 Fortunately, there are a wide variety of datasets focused on chess games and their outcomes, with varying features for each.
