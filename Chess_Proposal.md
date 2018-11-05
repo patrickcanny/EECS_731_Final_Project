@@ -14,6 +14,7 @@ Some of the datasets we are looking to use are:
   - https://archive.ics.uci.edu/ml/datasets/Chess+(Domain+Theories)
   - https://archive.ics.uci.edu/ml/datasets/Chess+(King-Rook+vs.+King-Knight)
   - https://archive.ics.uci.edu/ml/datasets/Chess+%28King-Rook+vs.+King%29
+* LiChess also provides monthly game records: https://database.lichess.org/
 
 Ideally, we will be able to combine these datasets using some processing/cleaning tactics
 ## Possible Feature Generation
