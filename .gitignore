@@ -108,6 +108,7 @@ venv.bak/
 
 # Text Files
 .txt
+.pgn
 
 # Mac
 .DS_store
